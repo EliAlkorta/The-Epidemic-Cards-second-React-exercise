@@ -1,10 +1,16 @@
 @import 'variables';
 
+*{
+    list-style: none;
+}
+
 .card-header{
     background-color: $background-color;
     width: 30%;
     display: flex;
     flex-direction: row;
+    padding-top: 20px;
+    padding-left: 10px;
 }
 
 .text-container{
@@ -17,11 +23,29 @@
     width: 30%;
     display: flex;
     flex-direction: row;
+    padding-right: 10px;
     .card-text{
         padding-right: 10px;
         padding-left: 10px;
         text-align: justify;
     }
+
+}
+.footer-container{
+    background-color: $background-color;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    .likes{
+        padding-left: 30px;
+    }
+    .heart{
+        padding-right: 30px;
+    }
+
 }
 
 

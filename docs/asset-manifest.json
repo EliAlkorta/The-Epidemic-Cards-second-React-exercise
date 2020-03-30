@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e24629d8.chunk.css",
+    "main.js": "./static/js/main.8002e97a.chunk.js",
+    "main.js.map": "./static/js/main.8002e97a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.fdecdd34.js",
+    "runtime-main.js.map": "./static/js/runtime-main.fdecdd34.js.map",
+    "static/js/2.cad5fe5c.chunk.js": "./static/js/2.cad5fe5c.chunk.js",
+    "static/js/2.cad5fe5c.chunk.js.map": "./static/js/2.cad5fe5c.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.3bb8e1e819a7be2d89081073c85a714e.js": "./precache-manifest.3bb8e1e819a7be2d89081073c85a714e.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.e24629d8.chunk.css.map": "./static/css/main.e24629d8.chunk.css.map",
+    "static/js/2.cad5fe5c.chunk.js.LICENSE.txt": "./static/js/2.cad5fe5c.chunk.js.LICENSE.txt",
+    "static/media/flu.jpg": "./static/media/flu.42686d08.jpg",
+    "static/media/isolatoir.jpg": "./static/media/isolatoir.43f20857.jpg",
+    "static/media/shopping.jpeg": "./static/media/shopping.822cf898.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdecdd34.js",
+    "static/js/2.cad5fe5c.chunk.js",
+    "static/css/main.e24629d8.chunk.css",
+    "static/js/main.8002e97a.chunk.js"
+  ]
+}
