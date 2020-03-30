@@ -1,0 +1,27 @@
+@import 'variables';
+
+.card-header{
+    background-color: $background-color;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+}
+
+.text-container{
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+.card-main{
+    background-color: $background-color;
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    .card-text{
+        padding-right: 10px;
+        padding-left: 10px;
+        text-align: justify;
+    }
+}
+
+
